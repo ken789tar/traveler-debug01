@@ -335,6 +335,7 @@ DEPENDENCIES
   devise-i18n
   enum_help
   error_highlight (>= 0.4.0)
+  ffi
   importmap-rails
   jbuilder
   jquery-rails
